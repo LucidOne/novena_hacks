@@ -1,3 +1,3 @@
 # Novena Case Designs
-## [sata_slab_case](SATA Slab)
+## [SATA Slab](sata_slab_case)
 A development "case" to mount the motherboard with a SATA drive attached.
